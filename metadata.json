@@ -1,0 +1,6 @@
+{
+  "name": "AM/FM LAB: Modulation & Demodulation Laboratory",
+  "description": "Interactive electrical and computer engineering signal-processing simulator comparing Amplitude Modulation (AM) and Frequency Modulation (FM) under identical channel conditions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
